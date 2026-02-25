@@ -46,5 +46,5 @@ jobs:
       - name: Style
         run: npm run format:check
 
-      - name: Linting using eslint
-        run: npm run lint
+      - name: Check linting
+        run: npm run lint -- --max-warnings=0
