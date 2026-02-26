@@ -1,4 +1,5 @@
 ![Workflow Status](https://github.com/SAMUELMUCHIRI/learn-cicd-typescript-starter/actions/workflows/ci.yml/badge.svg)
+![Deployment Status](https://github.com/SAMUELMUCHIRI/learn-cicd-typescript-starter/actions/workflows/cd.yml/badge.svg)
 
 # learn-cicd-typescript-starter (Notely)
 
